@@ -1,6 +1,5 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "MainWindow.h"
 #include <QToolBar>
 #include <QAction>
 #include <QPushButton>
